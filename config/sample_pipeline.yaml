@@ -1,0 +1,9 @@
+pipeline:
+  - name: summarize_step
+    type: summarizer
+    config:
+      max_length: 50
+
+  - name: sentiment_step
+    type: sentiment
+    config: {}
