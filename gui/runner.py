@@ -1,5 +1,8 @@
 import streamlit as st
 import yaml
+import sys
+import os
+sys.path.append(os.path.abspath(os.path.join(os.path.dirname(__file__), '..')))
 from builder.pipeline import Pipeline
 from builder.validator import validate_config
 
