@@ -19,7 +19,7 @@ A simple, modular pipeline builder for AI tasks such as summarization, sentiment
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/ai_pipeline_builder.git
+git clone https://github.com/ffahriza/ai_pipeline_builder.git
 cd ai_pipeline_builder
 ```
 ### Install dependencies
